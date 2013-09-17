@@ -23,6 +23,6 @@
     "test": "node_modules/.bin/mocha"
   },
   "engines":{
-    ">=0.8"
+    "node":">=0.8"
   }
 }
