@@ -1,6 +1,8 @@
 wmcommons
 ---------
 
+[![NPM](https://nodei.co/npm/wmcommons.png)](https://nodei.co/npm/wmcommons/)
+
 This module takes a file name of a Wikimedia Commons file and converts into the
 URL of the file itself, as Mediawiki installations have an odd directory
 structure.
