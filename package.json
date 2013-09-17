@@ -21,5 +21,8 @@
   },
   "scripts": {
     "test": "node_modules/.bin/mocha"
-  } 
+  },
+  "engines":{
+    ">=0.8"
+  }
 }
